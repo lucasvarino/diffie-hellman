@@ -1,3 +1,5 @@
+// Aluno: Lucas de Oliveira Varino - 202165090AC
+
 use num_bigint::BigUint;
 use rand::prelude::*;
 
